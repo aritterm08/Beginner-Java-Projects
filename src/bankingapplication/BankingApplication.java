@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * @author Adam Rittermann
- * Test
+ * Simple Beginner Banking Application
  */
 public class BankingApplication {
 
